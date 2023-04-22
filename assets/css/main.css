@@ -2143,8 +2143,8 @@ input, select, textarea {
 
 			.image.avatar img {
    				border-radius: 100%;
-    				width: 400px;
-    				height: 150px;
+    				width: 175px;
+    				height: 175px;
    				object-fit: cover;
 				}
 
