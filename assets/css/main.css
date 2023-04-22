@@ -74,9 +74,13 @@ input, select, textarea {
 
 /* Basic */
 
-.fa-inspire:before {
-  content: "\f16c";
-}
+	@font-face {
+  		font-family: 'ai';
+  		src: url('https://cdn.rawgit.com/andreasfaust/academicons/master/fonts/academicons-1.9.1.ttf') format('truetype');
+  		font-weight: normal;
+  		font-style: normal;
+		}
+
 
 	html {
 		box-sizing: border-box;
