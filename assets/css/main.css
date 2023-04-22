@@ -3204,6 +3204,16 @@ input, select, textarea {
 				}
 
 	}
+/* InspireHEP icon styles */
+.icon.ai-inspire:before {
+    content: "\f915";
+    font-family: 'ai';
+    font-size: 1.5em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    margin-right: 0.5em;
+}
 
 /* XSmall */
 
