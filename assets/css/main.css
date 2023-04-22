@@ -74,6 +74,10 @@ input, select, textarea {
 
 /* Basic */
 
+.fa-inspire:before {
+  content: "\f16c";
+}
+
 	html {
 		box-sizing: border-box;
 	}
