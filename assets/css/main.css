@@ -1,5 +1,7 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
+@import url('https://cdn.jsdelivr.net/npm/academicons@2.0.1/css/academicons.min.css');
+
 
 /*
 	Strata by HTML5 UP
@@ -74,14 +76,7 @@ input, select, textarea {
 
 /* Basic */
 
-	@font-face {
-  		font-family: 'ai';
-  		src: url('https://cdn.rawgit.com/andreasfaust/academicons/master/fonts/academicons-1.9.1.ttf') format('truetype');
-  		font-weight: normal;
-  		font-style: normal;
-		}
-
-
+	
 	html {
 		box-sizing: border-box;
 	}
